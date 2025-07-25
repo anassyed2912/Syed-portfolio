@@ -133,7 +133,7 @@ export default function Portfolio() {
               A personal portfolio site showcasing my projects, skills, and achievements.
             </p>
             <div className="flex space-x-4">
-              <a href="https://anassyed2912.github.io/web/wp1" target="_blank" className="text-mint hover:underline">Live Website</a>
+            
               <span className="text-sm text-mint">HTML • CSS • JavaScript</span>
             </div>
           </div>
