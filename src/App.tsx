@@ -125,14 +125,6 @@ export default function Portfolio() {
               <span className="text-sm text-mint">HTML • CSS • JavaScript</span>
             </div>
           </div>
-
-          {/* Personal Website */}
-          <div className="bg-softGray dark:bg-midNavy p-6 rounded-2xl shadow hover:shadow-lg transition">
-            <h3 className="text-xl font-semibold mb-2">Personal Website</h3>
-            <p className="text-gray-700 dark:text-slate-400 mb-4">
-              A personal portfolio site showcasing my projects, skills, and achievements.
-            </p>
-            <div className="flex space-x-4">
             
               <span className="text-sm text-mint">HTML • CSS • JavaScript</span>
             </div>
