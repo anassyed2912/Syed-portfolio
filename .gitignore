@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+.env
+
+dist
+.local
+
+.vscode/
+.idea/
+
+*.log
+*.lock
+*.sqlite
+
+# Editor-specific files
+.vimrc
+.emacs.d/
